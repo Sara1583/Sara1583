@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sara1583
-- 👀 I’m interested in breaking into data science. I have a background in qualitative research and international realtions and am a 16 year Army veteran. 
-- 🌱 I’m currently learning a variety of data science tools and processes including NLP and neural networks. 
+- 👀 I have a background in international relations and am a 16 year Army veteran. 
+- 🌱 I’m currently learning a variety of data science tools and processes including NLP 
 - 📫 You can reach me at ssharick8@gmail.com or on LinkdIn at https://www.linkedin.com/in/sara-sharick-4b8029ab.  
 
 <!---
