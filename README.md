@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sara1583
+- I recently completed a 10-course Master of Science in Data Science program at Northcentral University with a 4.0 GPA. Course topics included data mining, descriptive and inferential statistics, relational databases, and visualizations.
 - 👀 I have a background in international relations and am a 16 year Army veteran. 
-- 🌱 I’m currently learning a variety of data science tools and processes including NLP 
+- 🌱 I’m interested in a variety of data science tools and processes including NLP.
 - 📫 You can reach me at ssharick8@gmail.com or on LinkdIn at https://www.linkedin.com/in/sara-sharick-4b8029ab.  
 
 <!---
